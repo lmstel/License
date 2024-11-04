@@ -1,0 +1,10 @@
+C:\Users\michael_l.MANAGIX\source\repos\WindowsServiceLicense\bin\Debug\WindowsServiceLicense.exe.config
+C:\Users\michael_l.MANAGIX\source\repos\WindowsServiceLicense\bin\Debug\WindowsServiceLicense.exe
+C:\Users\michael_l.MANAGIX\source\repos\WindowsServiceLicense\bin\Debug\WindowsServiceLicense.pdb
+C:\Users\michael_l.MANAGIX\source\repos\WindowsServiceLicense\obj\Debug\WindowsServiceLicense.csproj.AssemblyReference.cache
+C:\Users\michael_l.MANAGIX\source\repos\WindowsServiceLicense\obj\Debug\WindowsServiceLicense.csproj.CoreCompileInputs.cache
+C:\Users\michael_l.MANAGIX\source\repos\WindowsServiceLicense\obj\Debug\WindowsServiceLicense.exe
+C:\Users\michael_l.MANAGIX\source\repos\WindowsServiceLicense\obj\Debug\WindowsServiceLicense.pdb
+C:\Users\michael_l.MANAGIX\source\repos\WindowsServiceLicense\bin\Debug\Newtonsoft.Json.dll
+C:\Users\michael_l.MANAGIX\source\repos\WindowsServiceLicense\bin\Debug\Newtonsoft.Json.xml
+C:\Users\michael_l.MANAGIX\source\repos\WindowsServiceLicense\obj\Debug\WindowsS.7337CBC5.Up2Date

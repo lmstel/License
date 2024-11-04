@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\michael_l.MANAGIX\\source\\repos\\WindowsServiceLicense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F424CE2F-8157-4D50-8964-D2DCB2AA865D}|WindowsServiceLicense.csproj|c:\\users\\michael_l.managix\\source\\repos\\windowsservicelicense\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F424CE2F-8157-4D50-8964-D2DCB2AA865D}|WindowsServiceLicense.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F424CE2F-8157-4D50-8964-D2DCB2AA865D}|WindowsServiceLicense.csproj|C:\\Users\\michael_l.MANAGIX\\source\\repos\\WindowsServiceLicense\\initservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F424CE2F-8157-4D50-8964-D2DCB2AA865D}|WindowsServiceLicense.csproj|solutionrelative:initservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 360,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\michael_l.MANAGIX\\source\\repos\\WindowsServiceLicense\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\michael_l.MANAGIX\\source\\repos\\WindowsServiceLicense\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:41:14.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InitService.cs",
+              "DocumentMoniker": "C:\\Users\\michael_l.MANAGIX\\source\\repos\\WindowsServiceLicense\\InitService.cs",
+              "RelativeDocumentMoniker": "InitService.cs",
+              "ToolTip": "C:\\Users\\michael_l.MANAGIX\\source\\repos\\WindowsServiceLicense\\InitService.cs",
+              "RelativeToolTip": "InitService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:33:28.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

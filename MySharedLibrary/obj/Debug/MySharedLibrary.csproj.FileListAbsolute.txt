@@ -1,0 +1,6 @@
+C:\Users\michael_l.MANAGIX\source\repos\MySharedLibrary\bin\Debug\MySharedLibrary.dll
+C:\Users\michael_l.MANAGIX\source\repos\MySharedLibrary\bin\Debug\MySharedLibrary.pdb
+C:\Users\michael_l.MANAGIX\source\repos\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.AssemblyReference.cache
+C:\Users\michael_l.MANAGIX\source\repos\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\michael_l.MANAGIX\source\repos\MySharedLibrary\obj\Debug\MySharedLibrary.dll
+C:\Users\michael_l.MANAGIX\source\repos\MySharedLibrary\obj\Debug\MySharedLibrary.pdb
